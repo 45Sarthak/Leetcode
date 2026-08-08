@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/45Sarthak/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/45Sarthak/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/45Sarthak/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/45Sarthak/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/45Sarthak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/45Sarthak/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/45Sarthak/Leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/45Sarthak/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/45Sarthak/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
