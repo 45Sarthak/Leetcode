@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/45Sarthak/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0930-binary-subarrays-with-sum](https://github.com/45Sarthak/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/45Sarthak/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/45Sarthak/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/45Sarthak/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/45Sarthak/Leetcode/tree/master/0137-single-number-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/45Sarthak/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
