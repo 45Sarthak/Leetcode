@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/45Sarthak/Leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/45Sarthak/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/45Sarthak/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/45Sarthak/Leetcode/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/45Sarthak/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/45Sarthak/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
