@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/45Sarthak/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/45Sarthak/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/45Sarthak/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/45Sarthak/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/45Sarthak/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/45Sarthak/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/45Sarthak/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/45Sarthak/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/45Sarthak/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/45Sarthak/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/45Sarthak/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
