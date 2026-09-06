@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/45Sarthak/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/45Sarthak/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/45Sarthak/Leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/45Sarthak/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/45Sarthak/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/45Sarthak/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/45Sarthak/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/45Sarthak/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/45Sarthak/Leetcode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
