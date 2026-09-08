@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/45Sarthak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/45Sarthak/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/45Sarthak/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/45Sarthak/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/45Sarthak/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/45Sarthak/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/45Sarthak/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/45Sarthak/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/45Sarthak/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/45Sarthak/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Memoization
 |  |
 | ------- |
