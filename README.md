@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/45Sarthak/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/45Sarthak/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/45Sarthak/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/45Sarthak/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/45Sarthak/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/45Sarthak/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/45Sarthak/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/45Sarthak/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/45Sarthak/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/45Sarthak/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/45Sarthak/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/45Sarthak/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/45Sarthak/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/45Sarthak/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/45Sarthak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/45Sarthak/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/45Sarthak/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/45Sarthak/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/45Sarthak/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/45Sarthak/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/45Sarthak/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
