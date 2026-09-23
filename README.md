@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/45Sarthak/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/45Sarthak/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/45Sarthak/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/45Sarthak/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/45Sarthak/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/45Sarthak/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/45Sarthak/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/45Sarthak/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/45Sarthak/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/45Sarthak/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/45Sarthak/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/45Sarthak/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/45Sarthak/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/45Sarthak/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
