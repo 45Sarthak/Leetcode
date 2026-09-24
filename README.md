@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/45Sarthak/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/45Sarthak/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/45Sarthak/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/45Sarthak/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/45Sarthak/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/45Sarthak/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/45Sarthak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/45Sarthak/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/45Sarthak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/45Sarthak/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/45Sarthak/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/45Sarthak/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/45Sarthak/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/45Sarthak/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/45Sarthak/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/45Sarthak/Leetcode/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
