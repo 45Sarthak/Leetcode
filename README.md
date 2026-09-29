@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/45Sarthak/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/45Sarthak/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/45Sarthak/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/45Sarthak/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/45Sarthak/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/45Sarthak/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/45Sarthak/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/45Sarthak/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/45Sarthak/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/45Sarthak/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/45Sarthak/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/45Sarthak/Leetcode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/45Sarthak/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/45Sarthak/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/45Sarthak/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/45Sarthak/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/45Sarthak/Leetcode/tree/master/1189-maximum-number-of-balloons) |
