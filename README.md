@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/45Sarthak/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/45Sarthak/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/45Sarthak/Leetcode/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/45Sarthak/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/45Sarthak/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/45Sarthak/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/45Sarthak/Leetcode/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/45Sarthak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/45Sarthak/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/45Sarthak/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/45Sarthak/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/45Sarthak/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/45Sarthak/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/45Sarthak/Leetcode/tree/master/0525-contiguous-array) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/45Sarthak/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/45Sarthak/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/45Sarthak/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/45Sarthak/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/45Sarthak/Leetcode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/45Sarthak/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
