@@ -6,8 +6,7 @@ class Solution {
         int firstvar=first(nums, target);
         int lastvar=last(nums, target);
 
-        int res[]={firstvar,lastvar};
-        return res;
+        return new int[]{firstvar,lastvar};
 }
 
 
