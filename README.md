@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/45Sarthak/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/45Sarthak/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/45Sarthak/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/45Sarthak/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/45Sarthak/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/45Sarthak/Leetcode/tree/master/0525-contiguous-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/45Sarthak/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/45Sarthak/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/45Sarthak/Leetcode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/45Sarthak/Leetcode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/45Sarthak/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/45Sarthak/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/45Sarthak/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/45Sarthak/Leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/45Sarthak/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/45Sarthak/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/45Sarthak/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/45Sarthak/Leetcode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/45Sarthak/Leetcode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/45Sarthak/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/45Sarthak/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/45Sarthak/Leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/45Sarthak/Leetcode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
